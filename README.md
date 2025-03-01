@@ -2,9 +2,9 @@ Project that I had to do for my Modelling and Simulation laboratory.
 # Project 2: Agent-based visual simulation
 
 ---
-## Option 1: Advanced Predator-Prey Simulation
+## Advanced Predator-Prey Simulation
 
-Extend the predator-prey simulation developed in the lab by incorporating additional features and complexities.
+Extend the predator-prey simulation by incorporating additional features and complexities.
 
 ### Requirements:
 
